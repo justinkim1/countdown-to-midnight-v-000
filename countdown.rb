@@ -2,8 +2,7 @@
 
 integer = 12
 
-def countdown
-  integer = 10
+def countdown(integer)
   while integer > 0 
   puts "#{integer} SECOND(S)!"
   integer -= 1
