@@ -1,6 +1,6 @@
 #write your code here
 
-integer = 12
+integer = 10
 
 def countdown(integer)
   while integer > 0 
